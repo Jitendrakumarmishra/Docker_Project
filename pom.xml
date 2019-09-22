@@ -6,7 +6,7 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>Number Generator WebApp 201</name>
+	<name>Number Generator WebApp Test</name>
 	<url>http://denofprogramming.com</url>
 
 	<organization>
